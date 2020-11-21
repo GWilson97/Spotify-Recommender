@@ -1,0 +1,15 @@
+playlists.json
+songs_ids.txt
+songs.db
+playlists.ndjson
+word2vec.model
+data/*
+creds.py
+*/playlists.json
+*/songs_ids.txt
+*/songs.db
+*/playlists.ndjson
+*/word2vec.model
+.cache*
+auth_flow.js
+callback.html
